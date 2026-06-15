@@ -1,0 +1,43 @@
+# Geotechnique — Nimes
+
+> Geotechnical engineering services in Nimes, France.
+
+## Services
+- [Amelioration Sols](https://nimes.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://nimes.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://nimes.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://nimes.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://nimes.geotechnique.vip/chaussee-souple/)
+- [Essai Cpt](https://nimes.geotechnique.vip/essai-cpt/)
+- [Excavations](https://nimes.geotechnique.vip/excavations/)
+- [Fondations](https://nimes.geotechnique.vip/fondations/)
+- [Geophysique](https://nimes.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://nimes.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://nimes.geotechnique.vip/granulometrie/)
+- [Injections](https://nimes.geotechnique.vip/injections/)
+- [Investigation](https://nimes.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://nimes.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://nimes.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://nimes.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://nimes.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://nimes.geotechnique.vip/liquefaction/)
+- [Microzonage Sismique](https://nimes.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://nimes.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://nimes.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://nimes.geotechnique.vip/pieux/)
+- [Puits Inspection](https://nimes.geotechnique.vip/puits-inspection/)
+- [Radiers](https://nimes.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://nimes.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://nimes.geotechnique.vip/resistivite/)
+- [Sismique](https://nimes.geotechnique.vip/sismique/)
+- [Sondages Spt](https://nimes.geotechnique.vip/sondages-spt/)
+- [Talus](https://nimes.geotechnique.vip/talus/)
+- [Tunnels Sol Mou](https://nimes.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://nimes.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://nimes.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Nimes, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
